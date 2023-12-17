@@ -1,8 +1,8 @@
-# React + Vite
+# Personal_Blog_Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is not a clone of a big website but a website I came across while checking some design in webflow. I liked the glowing effect and minimalism in it. 
+- The front end required some heavy work like different animation, transition, glowing border and text, include GIF.
+- The Back end including purchasing of item and putting it in the cart whereas sign up form (Auth/Validation) and all those backend requirement.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
